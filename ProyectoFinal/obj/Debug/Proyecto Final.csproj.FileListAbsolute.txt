@@ -1,0 +1,21 @@
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormPrincipal.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Pacientes.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Medicos.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Clinicas.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.CitaMedica.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Utilitarios.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\bin\Debug\Clases.dll
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\bin\Debug\Clases.pdb
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormPrincipalFondo.resources
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Login.resources
