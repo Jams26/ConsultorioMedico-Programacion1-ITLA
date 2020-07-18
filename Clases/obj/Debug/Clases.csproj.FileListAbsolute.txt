@@ -1,0 +1,6 @@
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Clases\bin\Debug\Clases.dll
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Clases\bin\Debug\Clases.pdb
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Clases\obj\Debug\Clases.dll
+C:\Users\latitude\Desktop\Javier Morillo\Asignaturas ITLA\Cuarto Cuatrimestre\Programacion 1\Proyecto Final\Clases\obj\Debug\Clases.pdb
